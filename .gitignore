@@ -1,0 +1,23 @@
+# Runtime data
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.pid
+*.log
+daemon.pid
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config (user-specific)
+config.env
