@@ -54,6 +54,8 @@ python3 ~/.sovereign-ai/memory/sovereign_memory.py recall "first memory"
 
 ### 3. Set Up Browser Automation
 
+Recommened to sandbox this in a separate Chrome profile free of sensitive personal credentials. Ideally, create a fresh chrome profile for your AI to use.
+
 ```bash
 # Install Chrome extension
 # 1. Open chrome://extensions/
@@ -174,3 +176,4 @@ MIT — see [LICENSE](LICENSE).
 ## Contributing
 
 This toolkit emerged from real-world use building sovereign AI instances. If you've built something similar, found patterns that work, or have improvements — contributions welcome.
+
